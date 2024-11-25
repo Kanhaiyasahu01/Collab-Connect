@@ -1,6 +1,6 @@
 # CollabConnect Prototype
 
-**Live Link**: [CollabConnect Prototype](#) (Replace with the actual link)
+**Live Link**: [CollabConnect Prototype](https://collab-connect-wheat.vercel.app/)
 
 **CollabConnect** is a centralized platform built to connect individuals with shared interests and skills, enabling seamless project collaboration and networking. Designed for students, startups, freelancers, and hobbyists, the platform provides tools for brainstorming, team-building, and project management.
 
