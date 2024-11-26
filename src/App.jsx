@@ -9,7 +9,8 @@ import Messages from "./components/Messages"
 import Mates from "./components/Mates/Mates"
 import Faqs from "./components/Faqs"
 import AboutUs from "./components/AboutUs"
-import Competition from "./components/Dashboard/competition/Competition"
+import Competition from "./components/competition/Competition"
+import ViewProject from "./components/Projects/ViewProject"
 function App() {
 
   return (
@@ -28,6 +29,7 @@ function App() {
     <Route path="/dashboard/competition" element={<Competition />} />
     <Route path="/faqs" element={<Faqs />} />
     <Route path="/about-us" element={<AboutUs />} />
+    <Route path="/dashboard/project/:id" element={<ViewProject />} />
 
 
     </Routes>
