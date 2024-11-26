@@ -1,7 +1,7 @@
 export const matesData = [
     {
       id: 1,
-      name: "Shreya Singh",
+      name: "Anurag Kashyap",
       role: "Full Stack Developer",
       location: "Raipur",
       image: "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -11,13 +11,13 @@ export const matesData = [
     },
     {
       id: 2,
-      name: "Anurag Kashyap",
+      name: "Shreya Singh",
       role: "Python | MERN Developer",
       location: "Bilaspur",
       image: "https://images.unsplash.com/photo-1684966610091-f6beda2d025a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2ZpbGUlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D",
       skills: ["Python", "Django", "React", "API Development"],
       bio: "An enthusiastic programmer skilled in Python and modern web technologies.",
-      categories: ["Artificial Intelligence", "Cyber Security"],
+      categories: ["Artificial Intelligence"],
     },
     {
       id: 3,
@@ -55,7 +55,7 @@ export const matesData = [
       role: "Data Scientist",
       location: "Delhi",
       image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=60",
-      skills: ["Python", "TensorFlow", "Pandas", "Data Analysis"],
+      skills: ["Python", "TensorFlow", "Pandas"],
       bio: "Transforming data into actionable insights for better decision-making.",
       categories: ["Artificial Intelligence", "Finance"],
     },

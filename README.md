@@ -38,7 +38,7 @@
 ---
 
 ### Dashboard
-![Dashboard](./images/dashboard.png)  
+![Dashboard](./images/dashboard1.png)  
 *The dashboard provides an intuitive overview of active projects, tasks, and team activities. Key features include timeline tracking, milestone progress, and seamless access to communication tools. It serves as a one-stop hub for efficient project management.*
 
 ---

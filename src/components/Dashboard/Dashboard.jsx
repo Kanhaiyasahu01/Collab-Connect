@@ -59,8 +59,14 @@ const Dashboard = () => {
       <div className="absolute top-1/2 left-1\2 bg-pink-200 w-72 h-72 bg-gradient-to-r from-orange-400 to-pink-500 opacity-30 rounded-full blur-3xl"></div>
       <div className="absolute top-1/2 right-1/2 bg-purple-100 w-80 h-80 bg-gradient-to-r from-cyan-400 to-blue-500 opacity-30 rounded-full blur-3xl"></div>
 
+      <div className="text-center space-y-4 mb-6 mt-8">
+  <h1 className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+    Discover, Collaborate & Innovate
+  </h1>
+</div>
 
-      <div className="max-w-[1100px] bg-richblack-800 shadow-md mx-auto rounded-md">
+
+      <div className="max-w-[1100px] bg-richblack-800 shadow-md mx-auto rounded-md mt-4">
         <div className="p-4 max-w-xl mx-auto relative">
           {/* Search Icon */}
           <FaSearch className="absolute left-6 top-1/2 transform -translate-y-1/2 text-white w-5 h-5" />
