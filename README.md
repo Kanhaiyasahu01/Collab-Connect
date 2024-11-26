@@ -43,6 +43,12 @@
 
 ---
 
+### Mates
+![Mates](./images/mates.png)  
+*The Mates page serves as a powerful platform to discover and connect with teammates. Key features include advanced search, role-based filtering, and detailed profiles showcasing skills, location, and expertise. It fosters collaboration and innovation by helping users find like-minded professionals and build meaningful connections.*
+
+---
+
 ### Messages Page
 ![Messages Page](./images/chats.png)  
 *The messages page facilitates real-time communication with integrated chat options. Users can interact with team members, share ideas, and keep project discussions organized in one place.*
