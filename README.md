@@ -32,7 +32,7 @@
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./images/landing.png)  
+![Landing Page](./images/landing1.png)  
 *The landing page offers a welcoming UI with clear navigation and a prominent call-to-action for users to sign up or log in. Users can instantly understand the platform's value proposition, highlighting collaboration opportunities and innovative features.*
 
 ---
