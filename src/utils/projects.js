@@ -7,12 +7,17 @@ export const projectsData = [
     category: "AI/ML Specialist",
     teamSize: 1,
     createdBy: "@Kanhaiya Lal Sahu",
-    rolesAvailable: "Innovators",
+    createdAt:"10/11/2024",
+    rolesAvailable: ["Web Developer","App Developer","Marketing"],
     teamMembers: [
       {
         name: "@Kanhaiya Sahu",
         role: "FOUNDER",
       },
+      {
+        name:"Venktesh badgaiyan",
+        role:"Co-Founder"
+      }
     ],
     statusTags: ["IDEA", "COFOUNDING"],
     tags: [
