@@ -5,9 +5,9 @@ const Faqs = () => {
 
   const faqList = [
     {
-      question: 'What is the Find You Mate app?',
+      question: 'What is the Collab Connect app?',
       answer:
-        'The Find You Mate app is a platform where people with similar interests can connect, collaborate, and work on projects together. It is designed to foster meaningful professional and creative connections.',
+        'The Collab Connect app is a platform where people with similar interests can connect, collaborate, and work on projects together. It is designed to foster meaningful professional and creative connections.',
     },
     {
       question: 'How do people connect with others who have the same mindset?',
